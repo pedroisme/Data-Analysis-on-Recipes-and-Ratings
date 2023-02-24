@@ -19,8 +19,11 @@ By analyzing the data in this way, we hope to gain a better understanding of the
 ---
 
 ## Cleaning and EDA
-
+**Univariate Analysis**
+*Univariate Analysis graphs*
 <iframe src="Univariate.html" width=800 height=600 frameBorder=0></iframe>
+
+*Bivariate Analysis*
 
 ---
 
