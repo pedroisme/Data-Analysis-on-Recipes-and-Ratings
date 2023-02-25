@@ -20,20 +20,45 @@ By analyzing the data in this way, we hope to gain a better understanding of the
 
 ## Cleaning and EDA
 **Univariate Analysis**
+
 *Univariate Analysis graphs*
-<iframe src="Univariate.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="step.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="rating.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="ingredients.html" width=800 height=600 frameBorder=0></iframe>
 
 *Bivariate Analysis*
+
+<iframe src="BA1.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="BA2.html" width=800 height=600 frameBorder=0></iframe>
+
 
 ---
 
 ## Assessment of Missingness
 
+<iframe src="fig_Missingness.html" width=800 height=600 frameBorder=0></iframe>
+
+<iframe src="fig_Missingness2.html" width=800 height=600 frameBorder=0></iframe>
 
 
 ---
 
 ## Hypothesis Testing
+*Permutation*
+<iframe src="fig_permutation_ingredients.html" width=800 height=600 frameBorder=0></iframe>
 
+
+<iframe src="fig_permutation_steps.html" width=800 height=600 frameBorder=0></iframe>
+
+
+<iframe src="fig_permutation_shuffled_steps.html.html" width=800 height=600 frameBorder=0></iframe>
+
+
+*final*
+
+<iframe src="fig_final.html" width=800 height=600 frameBorder=0></iframe>
 
 ---
