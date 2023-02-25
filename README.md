@@ -54,7 +54,7 @@ By analyzing the data in this way, we hope to gain a better understanding of the
 <iframe src="fig_permutation_steps.html" width=800 height=600 frameBorder=0></iframe>
 
 
-<iframe src="fig_permutation_shuffled_steps.html.html" width=800 height=600 frameBorder=0></iframe>
+<iframe src="fig_permutation_shuffled_steps.html" width=800 height=600 frameBorder=0></iframe>
 
 
 *final*
