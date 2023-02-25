@@ -549,16 +549,13 @@ To be more specific, we expect that the cooking steps do not influence whether t
 The observed statistics we chose is the difference of mean when the review is good and when the review is bad. The significance level is 0.05. 
 We perform the permutation test here and we are trying to figure out whether n_steps data from good rating recipes and n_steps data from bad rating recipes come from the same population. From there, we can made the decision whether the relationship exists or not.
 
-After running 1000 permutation test, the p-value we ended up getting a is 0. The p-value is smaller than the significance level, so we reject the null hypothesis.
+==After running 1000 permutation test, the p-value we ended up getting a is 0. The p-value is smaller than the significance level, so we reject the null hypothesis.==
 
 
 <iframe src="fig_permutation_shuffled_steps.html" width=800 height=600 frameBorder=0></iframe>
 
 From this plot, which demonstrates the distribution of the permutation tests with the observed stats as a vertical line. We learn that the observed stats are far away from the permutation result. So we can conclude there exists a relationship between the number of steps each recipe needs and whether the rating is good or bad. This conclusion we get from the plot matches with the rejection of the null hypothesis. In this case, our data science question is answered.
-<!-- *final*
 
-<iframe src="fig_final.html" width=800 height=600 frameBorder=0></iframe>
- -->
 
    
 --- -->
